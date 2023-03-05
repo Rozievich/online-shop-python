@@ -1,0 +1,32 @@
+[
+   {
+      "username": "oybek",
+      "password": "$2b$12$HzRDHfktwnRKyxC5IiLoi.ZfofH.xJ3mVzFJunNWBgbZ3bb5pwQfu",
+      "admin": false,
+      "id": 0
+   },
+   {
+      "username": "admin",
+      "password": "$2b$12$3Y6Bd38taJLhmRrscbvd2umgIWKYSTVYg0RSuopmgDHX9P7LGb7W6",
+      "admin": true,
+      "id": 1
+   },
+   {
+      "username": "admin1",
+      "password": "$2b$12$W7n/.ge1JyIKIRKamHLOLe1o8vtnjtG6vy2acP42H0UcS9uz4Pv/S",
+      "admin": true,
+      "id": 2
+   },
+   {
+      "username": "w",
+      "password": "$2b$12$LJIdlKsT4BapnPyYiugJ3.iwTd9gCbyOqLWlPpGBFvh4V1rxt9OZC",
+      "admin": false,
+      "id": 3
+   },
+   {
+      "username": "e",
+      "password": "$2b$12$2rmTBcIuUaRdBWegymuoc.EcNCbkUrGReXnWmoUsZYDiplpkipHTG",
+      "admin": false,
+      "id": 4
+   }
+]

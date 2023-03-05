@@ -1,0 +1,52 @@
+[
+   {
+      "name": "Apple",
+      "price": 150,
+      "count": 10
+   },
+   {
+      "name": "Acer",
+      "price": 890,
+      "count": 12
+   },
+   {
+      "name": "Lenovo",
+      "price": 12,
+      "count": 18
+   },
+   {
+      "name": "Asus",
+      "price": 250,
+      "count": 21
+   },
+   {
+      "name": "Hp",
+      "price": 11,
+      "count": 12
+   },
+   {
+      "name": "Toshiba",
+      "price": 340,
+      "count": 9
+   },
+   {
+      "name": "Olma",
+      "price": 15,
+      "count": 152
+   },
+   {
+      "name": "Xioami 11 Lite",
+      "price": 12000,
+      "count": 12
+   },
+   {
+      "name": "Airpods",
+      "price": 150,
+      "count": 51
+   },
+   {
+      "name": "olma",
+      "price": 1,
+      "count": 1
+   }
+]
